@@ -1,0 +1,33 @@
+_repo: Quotes-and-Images-From-The-Works-of-Michel-De-Montaigne_7551
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Montaigne, Michel de
+    aliases:
+    - Montagne, Michel de
+    - Montaigne, Michel Eyquem de
+    birthdate: 1533
+    deathdate: 1592
+    gutenberg_agent_id: '1230'
+    url: http://www.gutenberg.org/2009/agents/1230
+    wikipedia: http://en.wikipedia.org/wiki/Michel_de_Montaigne
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2004-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7551'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Quotations'
+- GITenberg
+title: Quotes and Images From The Works of Michel De Montaigne
+url: http://www.gutenberg.org/ebooks/7551
