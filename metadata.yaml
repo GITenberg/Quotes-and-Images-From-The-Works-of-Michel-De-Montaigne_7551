@@ -1,5 +1,8 @@
 _repo: Quotes-and-Images-From-The-Works-of-Michel-De-Montaigne_7551
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Montaigne, Michel de
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '1961'
     url: http://www.gutenberg.org/2009/agents/1961
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7551#Quotes-and-Images-From-The-Works-of-Michel-De-Montaigne
 gutenberg_issued: '2004-09-03'
 gutenberg_type: Text
 identifiers:
